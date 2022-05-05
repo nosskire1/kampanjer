@@ -1,10 +1,11 @@
 :root {
-    --color-light-transparent: hsla(0, 0%, 94%, 0.9);
-    --color-primary: hsl(20deg 40% 53%);
-    --color-secondary: hsl(344deg 45% 13%);
+    --color-light-transparent:#002366; 
+    --color-primary: black;
+    --color-secondary: #002366; ;
 
     --font-headline: serif;
 }
+
 
 a:hover {
     color: var(--color-secondary);
@@ -25,7 +26,7 @@ h1, h2, h3 {
 }
 
 .hero {
-    background-image: url(../img/goh-rhy-yan-CCxWLAx0qmk-unsplash.jpg);
+    background-image: url(../img/riksdagen.jpg);
     background-size: cover;
     background-position: left top;
     position: relative;

@@ -3,6 +3,11 @@
 Skriv ned tema, färger, vad handlar din text om.
 Skapa 
 
+Svart: kraft, authorety, 
+
+
+
+
 * färger
 * bilder ikoner
 * typsnitt
