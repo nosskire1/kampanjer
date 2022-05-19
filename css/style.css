@@ -25,6 +25,8 @@ a:hover {
 
     font-size: 1.333rem;
 }
+
+
 .navbar__collapse-show {
     display: block !important;
     width: 100%;
