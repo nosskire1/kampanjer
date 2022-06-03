@@ -1,5 +1,5 @@
 :root {
-    --color-light-transparent:#002366; 
+    --color-light-transparent:#e2e057; 
     --color-primary: black;
     --color-secondary: #002366; 
     --font-headline: serif;
@@ -19,9 +19,11 @@ h1, h2, h3 {
 }
 
 .navbar {
+
     background-color: var(--color-light-transparent);
     position: sticky;
     top: 0;
+    
 }
 
 .hero {
