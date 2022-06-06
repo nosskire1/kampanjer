@@ -16,6 +16,7 @@ sedan började jag jobba med design i css.
 sist av allt testade jag mitt programm i validator. i html filen hittade den bara ett fel och det var 
 inget stort. i css hittade den inga fel. 
 
+jag testade och efter contrast errrors med WAVE, den hittade 0 contrast errors. 
 
 
 Positiva erfarenheter
