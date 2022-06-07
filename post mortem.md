@@ -18,6 +18,8 @@ inget stort. i css hittade den inga fel. websidan fungerar också som den ska, j
 
 jag testade och efter contrast errrors med WAVE, den hittade 0 contrast errors, och jag skjälv tycker att contrasten är bra.
 
+jag testade webplatsen i opera och microsoft edge och de båda fungerar. jag testade också i mobil, det fungerade ok, men ibland delade den upp ord mitt i för att de inte fick plats på skärmen.
+
 
 Positiva erfarenheter
 
